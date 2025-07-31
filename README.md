@@ -1,9 +1,13 @@
 <h1 align="center">Merhaba 👋</h1>
 
 <p align="center">
-Ben Devrim Varlı! Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Standart yazılım geliştirme, proje üretme, problem çözme gibi alanlarda kendimi geliştiriyorum.
+  Ben Devrim Varli, Bilgisayar mühendisliği dördüncü sınıf öğrencisiyim ve mobil uygulama geliştirme alanında uzmanlaşmayı hedefliyorum. Özellikle Flutter teknolojisinde projeler geliştirme ve siber güvenlik konularında çalışmalar yapma konusunda hevesliyim. Takım çalışmasına yatkın, öğrenmeye açık ve yenilikçi bir mühendis adayı olarak hem teknik hem de kişisel yetkinliklerimi sürekli geliştirmeye odaklanıyorum.
 <br><br>
 📧 Mail: <a href="mailto:devrimvarli@example.com">devrimvarli@example.com</a>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="150" alt="Profil Fotoğrafı" />
 </p>
 
 ---
@@ -33,7 +37,7 @@ Ben Devrim Varlı! Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Standart
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,cpp,java,php,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,dart,flutter&theme=dark" />
 </p>
 
 ---
