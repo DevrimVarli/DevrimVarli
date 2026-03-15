@@ -3,8 +3,11 @@
 # ✨ Devrim Varli 👋
 
 </div>
+Bilgisayar Mühendisliği 4. Sınıf Öğrencisi | Mobil (Flutter) & Backend (ASP.NET Core Web API) Geliştirici
 
-Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Temel odak alanlarım **mobil uygulama geliştirme (Flutter)** ve **siber güvenliktir**. Yenilikçi çözümler üretmeye ve takım içinde etkin rol almaya her zaman istekliyim. Sürekli öğrenme ve kişisel gelişim benim için önceliklidir.
+"Bilgisayar Mühendisliği son sınıf öğrencisi olarak, modern yazılım geliştirme süreçlerine duyduğum tutkuyla mobil uygulama geliştirme ve backend mimarileri üzerine yoğunlaşıyorum. Flutter ile kullanıcı deneyimi yüksek cross-platform mobil uygulamalar geliştirirken, bu uygulamaların kalbi olan sunucu tarafında ASP.NET Core Web API kullanarak ölçeklenebilir ve performanslı sistemler tasarlıyorum.
+
+Yazılım geliştirme sürecini bir bütün olarak ele alıyor; veritabanı yönetiminden API güvenliğine, Repository ve Unit of Work gibi tasarım desenlerinden temiz kod prensiplerine kadar geniş bir yelpazede çözümler üretiyorum. Takım çalışmasına yatkın, sürekli öğrenmeye odaklı ve yenilikçi teknolojileri projelerine entegre etmeye hevesli bir mühendis adayıyım.
 
 <div align="center">
 
