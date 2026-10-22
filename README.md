@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Merhaba%2C+ben+Devrim+%F0%9F%91%8B;Flutter+ile+mobil+uygulamalar;ASP.NET+Core+ile+backend+%26+API;Fikirden+canl%C4%B1+sunucuya+u%C3%A7tan+uca" alt="Merhaba, ben Devrim" />
 
-**Bilgisayar Mühendisliği 4. sınıf · Mobil (Flutter) & Backend (ASP.NET Core) geliştirici**
+**Bilgisayar Mühendisi · Mobil (Flutter) & Backend (ASP.NET Core) geliştirici**
 
 <a href="https://www.linkedin.com/in/devrim-varli-181a16257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:devrimvarli1@gmail.com"><img src="https://img.shields.io/badge/E--posta-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-posta" /></a>
